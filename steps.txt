@@ -1,0 +1,8 @@
+Steps:
+Run it on colab (https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
+1)run the 1st cell then click choose files to choose the data file
+2)run the 2nd cell ; it splits the data and make it ready to be used
+3)run the 3rd cell ;it subtracts the oldest year from the years column
+4)run the 4th cell ; it prints the data frame
+3)the upcoming 3 cells are different methods , the most accurate one is the one in the last cell
+You could enter the year in the last cell ,but u have to minus from it 1992 , the starting year' .
